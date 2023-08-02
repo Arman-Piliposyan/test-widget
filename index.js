@@ -1,1 +1,1 @@
-console.log('WORKIK)
+console.log('WORKIK');
