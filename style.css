@@ -22,7 +22,7 @@ body {
 .widget_icon {
   width: 40px;
   height: 40px;
-  background-image: url('../chat-widget/chat.png');
+  background-image: url('https://arman-piliposyan.github.io/test-widget/chat.png');
   background-size: cover;
 }
 
